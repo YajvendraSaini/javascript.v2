@@ -16,7 +16,7 @@ a multiple of 5 or not.*/
 o 50-59, D
 0-49, F*/
 
-let score = 75;
+let score = prompt("Enter your score(0-100):");
 let grade;
 
 if(score >= 90 && score<= 100){
