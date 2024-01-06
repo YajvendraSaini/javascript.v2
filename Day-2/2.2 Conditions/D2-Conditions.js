@@ -36,7 +36,7 @@ if(mode === "dark"){
 } else if(mode === "yellow"){
     color = "yellow";
 } else {
-    color = "light";
+    color = "white";
 }
 
 console.log(color);
