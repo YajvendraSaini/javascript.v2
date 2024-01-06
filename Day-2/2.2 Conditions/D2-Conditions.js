@@ -42,4 +42,13 @@ if(mode === "dark"){
 console.log(color);
 
 
+// ternary operators
+
+let age = 19;
+
+let resule = age>18 ? "adult" : "not adult"
+
+console.log(resule);
+
+
 
